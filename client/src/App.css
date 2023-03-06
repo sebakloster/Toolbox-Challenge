@@ -1,0 +1,13 @@
+
+.mainNavBar{
+  background-color: #FF6666;
+}
+
+.navBrand {
+  color: #FFFFFF !important;
+  font-weight: bold;
+}
+
+.tableHead {
+  border-bottom: 2px solid #000000 !important;
+}
